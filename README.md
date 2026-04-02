@@ -8,6 +8,12 @@ This is a simple Bash script to monitor system health.
 - Shows top memory consuming process
 - Saves output in a log file with timestamp
 
+  
+ ## 📸 Output
+
+<img src="screenshots/output.png" width="45%" />
+<img src="screenshots/output2.png" width="45%" />
+
 ## How to Run
 
 chmod +x health.sh
