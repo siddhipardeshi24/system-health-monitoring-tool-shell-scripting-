@@ -11,8 +11,8 @@ This is a simple Bash script to monitor system health.
   
  ## 📸 Output
 
-<img src="screenshot/output.png" width="45%" />
-<img src="screenshot/output2.png" width="45%" />
+<img src="screenshot/output.png.png" width="45%" />
+<img src="screenshot/output2.png.png" width="45%" />
 
 ## How to Run
 
